@@ -18,7 +18,7 @@ Este repositório contém implementações didáticas dos padrões de projeto da
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu_usuario/padroes-de-projeto-gof-python.git
+git clone https://github.com/wesley-zorzolli/padroes-de-projeto-gof-python.git
 cd padroes-de-projeto-gof-python
 ```
 
